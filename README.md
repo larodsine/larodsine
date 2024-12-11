@@ -2,7 +2,7 @@ Hi, There 👋
 
 <h2> Laffitte Rodrigues👨‍💻</h2>
 
-<br> • I’m interested in DevOps, SRE and Microservices.
+<br> • I’m interested in Zabbix, Observability and OpenTelemetry
 <br> • currently, team management support N2.
 <br> • 📫 larodsine@gmail.com
 <br>
